@@ -19,7 +19,7 @@ You can access the trained model here: [Trained Model on Google Drive](https://d
 - Optimizer: Stochastic Gradient Descent (SGD) with Nesterov momentum (0.9).
 - Weight decay: 0.0005.
 - Learning rate scheduler: OneCycleLR.
-- Label smoothing: 0.1.
+- Label smoothing quotient: 0.1.
 - Gradient clipping to stabilize training.
 
 ## Results
